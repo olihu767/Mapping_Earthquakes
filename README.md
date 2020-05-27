@@ -16,4 +16,4 @@ The goals of this challenge :
 # Summary
 ![](image/screenshot.PNG)
 
-This map has 3 differnt layers for viewers to swithing their prefered map style. When pointing the the bubble circle, it indicates the level of earthquake magnitude and the color metric is displayed on the right hand conor. Redlines marks the tectionic plates. It is easily identified that there is corrlation between the tectionic plates and the level of earthquake. 
+This map has 3 differnt layers for viewers to swithing their prefered map style. When pointing the bubble circle, it indicates the level of earthquake magnitude by color and the detail metric is displayed on the right bottom conor. Redlines are the tectionic plates layer. Base on the buble locations, the high magnitude earthquake mostly is taken place on the tectionic plates. 
